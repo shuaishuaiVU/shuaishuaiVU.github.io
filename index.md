@@ -50,7 +50,7 @@ I am a currently a MSc Mathematics student at the University of Shanghai. I am i
 1. Machine Translation project, Shanghai University of Technology (2013-2014)
 2. Big Data project, University of Oxford (2014-2015)
 
-### Full Time Job
+### Part-Time Job
 
 1. Software Engineer, BBN Technology (2013)
 2. Big Data project, Xiaomi (2015-2016)
