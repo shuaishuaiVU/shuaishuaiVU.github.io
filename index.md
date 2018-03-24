@@ -1,23 +1,23 @@
-## 刘三姐 Sanjie Liu
+# 刘三姐 Sanjie Liu
 
-### Introduction 
+## Introduction 
 
 I am a currently a MSc Mathematics student at the University of Shanghai. I am in my second year of studies and I am looking for opportunities for doctoral studies in Europe. 
 
 
 
-### Education
+## Education
 
-## Shanghai University of Technology
-### 2010-2014
-### BSc Mathematics (87/100)
+### Shanghai University of Technology
+#### 2010-2014
+#### BSc Mathematics (87/100)
 - Core Courses
 - Introduction to Mathemeatics
 -- Logical Reasoning
 
-## University of Shanghai
-# 2016-2018
-# MSc Mathematics (85/100)
+### University of Shanghai
+#### 2016-2018
+#### MSc Mathematics (85/100)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
