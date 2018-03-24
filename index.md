@@ -1,4 +1,3 @@
-<title>$ttl$</title>
 # 刘三姐 Sanjie Liu
 
 ## Introduction 
@@ -12,14 +11,25 @@ I am a currently a MSc Mathematics student at the University of Shanghai. I am i
 ### Shanghai University of Technology
 #### 2010-2014
 #### BSc Mathematics (87/100)
-- Core Courses
+##### Core Courses
 - Introduction to Mathemeatics
--- Logical Reasoning
+- Logical Reasoning
+- Linear Algebra
+##### Thesis
+- Group Theory for Braids
+- Supervisor: Prof. Tom Thomas.
 
 ### University of Shanghai
 #### 2016-2018
 #### MSc Mathematics (85/100)
+##### Core Courses
+- Introduction to Mathemeatics
+- Logical Reasoning
+- Linear Algebra
 
+##### Thesis
+- Logical Reasoning and Computational Complexity
+- Supervisor: Prof. Jack Jackson.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
