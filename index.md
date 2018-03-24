@@ -9,8 +9,8 @@ I am a currently a MSc Mathematics student at the University of Shanghai. I am i
 ### Education
 
 ## Shanghai University of Technology
-# 2010-2014
-# BSc Mathematics (87/100)
+### 2010-2014
+### BSc Mathematics (87/100)
 - Core Courses
 - Introduction to Mathemeatics
 -- Logical Reasoning
