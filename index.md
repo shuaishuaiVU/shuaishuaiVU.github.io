@@ -10,18 +10,19 @@ I am a currently a MSc Mathematics student at the University of Shanghai. I am i
 
 ### Shanghai University of Technology
 #### 2010-2014
-#### BSc Mathematics (87/100)
+#### BSc Mathematics (87/100) **top 5%** 
 ##### Core Courses
 - Introduction to Mathemeatics
 - Logical Reasoning
 - Linear Algebra
+
 ##### Thesis
 - Group Theory for Braids
 - Supervisor: Prof. Tom Thomas.
 
 ### University of Shanghai
 #### 2016-2018
-#### MSc Mathematics (85/100)
+#### MSc Mathematics (85/100) **top 10%** 
 ##### Core Courses
 - Introduction to Mathemeatics
 - Logical Reasoning
@@ -31,32 +32,30 @@ I am a currently a MSc Mathematics student at the University of Shanghai. I am i
 - Logical Reasoning and Computational Complexity
 - Supervisor: Prof. Jack Jackson.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Professional Experience 
 
-# Header 1
-## Header 2
-### Header 3
+### Internship
 
-- Bulleted
-- List
+1. Huawei (Summer 2014)
+2. Google (Summer 2015)
 
-1. Numbered
-2. List
+### Summer School
 
-**Bold** and _Italic_ and `Code` text
+1. International Summer School on Cognitive Computing, University of Oxford (Summer 2016)
+2. International Summer School on Cloud Computing, University of Cambridge (Summer 2017)
 
-[Link](url) and ![Image](src)
-```
+### Research Project
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Machine Translation project, Shanghai University of Technology (2013-2014)
+2. Big Data project, University of Oxford (2014-2015)
 
-### Jekyll Themes
+### Full Time Job
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuaishuaiVU/shuaishuaiVU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Software Engineer, BBN Technology (2013)
+2. Big Data project, Xiaomi (2015-2016)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Contact
+Feel free to drop me an email at xx.xx@gmail.com
