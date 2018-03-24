@@ -1,15 +1,24 @@
-## 刘三姐
+## 刘三姐 Sanjie Liu
 
-You can use the [editor on GitHub](https://github.com/shuaishuaiVU/shuaishuaiVU.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 个人简介
-
-Jackson is the best 几天
+I am a currently a MSc Mathematics student at the University of Shanghai. I am in my second year of studies and I am looking for opportunities for doctoral studies in Europe. 
 
 
-### Markdown
+
+### Education
+
+## Shanghai University of Technology
+# 2010-2014
+# BSc Mathematics (87/100)
+- Core Courses
+- Introduction to Mathemeatics
+-- Logical Reasoning
+
+## University of Shanghai
+# 2016-2018
+# MSc Mathematics (85/100)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
